@@ -1,6 +1,6 @@
 #!/bin/env bash
 #
-# Author: Phil Wyett (kathenas) - philip.wyett@kathenas.org
+# Author: Phil Wyett (kathenas) - development.group@kathenas.org
 #
 # Website: https://kathenas.org
 #
