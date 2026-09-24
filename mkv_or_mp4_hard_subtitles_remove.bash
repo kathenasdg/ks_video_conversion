@@ -1,5 +1,13 @@
 #!/bin/env bash
 #
+# #    #
+# #   #     ##    #####  #    #  ######  #    #    ##     ####
+# #  #     #  #     #    #    #  #       ##   #   #  #   #
+# ###     #    #    #    ######  #####   # #  #  #    #   ####
+# #  #    ######    #    #    #  #       #  # #  ######       #
+# #   #   #    #    #    #    #  #       #   ##  #    #  #    #
+# #    #  #    #    #    #    #  ######  #    #  #    #   ####
+#
 # Author: Phil Wyett (kathenas) - development.group@kathenas.org
 #
 # Website: https://kathenas.org
